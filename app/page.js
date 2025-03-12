@@ -10,7 +10,6 @@ export default function Home() {
         <div className="w-[543px] h-[590.40px] left-[88.69px] top-0 absolute bg-[#d9d9d9]" />
         <img className="w-[630.99px] h-[1054.71px] left-[81.51px] top-[-57.62px] absolute" src="https://placehold.co/631x1055" />
       </div>
-      <div className="w-[680px] left-[143px] top-[313px] absolute justify-start text-[#eaecd7] text-[110px] font-black font-['Inknut_Antiqua'] leading-[134.20px]">This is the Topic This is the Topic</div>
       <div className="w-[680px] left-[148px] top-[740px] absolute justify-start text-[#eaecd7] text-[40px] font-semibold font-['Inknut_Antiqua'] leading-[48.80px]">This is the Topic </div>
       <div className="left-[270px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Inknut_Antiqua']">Me</div>
       <div className="left-[64px] top-[46px] absolute justify-start text-[#eaecd7] text-2xl font-bold font-['Inknut_Antiqua']">Front Page</div>
